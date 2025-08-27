@@ -1,0 +1,104 @@
+TARIFAS DE ENERGÍA ELÉCTRICA ($/kWh)
+REGULADAS POR LA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS (CREG) www.enelxenergy.com
+Tarifas de julio 2025 [Aplica a los consumos de julio 2025]
+Mercado de Comercialización OR Enel Colombia SA ESP [BOGOTÁ Y CUNDINAMARCA] Cfmj ($/factura) 10180,5246 Mercado de Comercialización Operador de Red EPM ESP [ANTIOQUIA] Cfmj ($/factura) 8972,1065
+Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT] Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT]
+Nivel de SIN Contribución CON Contribución Nivel de SIN Contribución CON Contribución
+Tensión (NT) Generación Transmisión Distribución Dm Comercializaci Pérdidas Restricciones Rm CU CU Tensión (NT) Generación Transmisión Distribución Comercialización Cv Restricciones CU CU
+Gm Tm ó C n v [Cv+COT] PR Con S tri I b N u ción CON contribución Gm Tm Dm [Cv+COT] Pérdidas PR Rm SIN Contribución CON contribución
+NT1-100% OR 382,7766 53,8357 296,3262 31,2006 31,2006 73,5703 49,1814 886,8908 1064,2690 886,8908 1064,2690 NT1-100% OR 383,5446 53,8357 308,5816 31,0700 76,4600 76,2852 49,1814 902,4985 1082,9982 947,8885 1137,4662
+NT1-50% OR 382,7766 53,8357 270,1334 31,2006 31,2006 73,5703 49,1814 860,6980 1032,8376 860,6980 1032,8376 NT1-50% OR 383,5446 53,8357 273,6953 31,0700 76,4600 76,2852 49,1814 867,6122 1041,1346 913,0022 1095,6026
+NT1-100% CL 382,7766 53,8357 243,9405 31,2006 31,2006 73,5703 49,1814 834,5051 1001,4061 834,5051 1001,4061 NT1-100% CL 383,5446 53,8357 238,8089 31,0700 76,4600 76,2852 49,1814 832,7258 999,2710 878,1158 1053,7390
+NT2 382,7766 53,8357 193,1473 31,2006 65,5406 24,4864 49,1814 734,6280 881,5536 768,9680 922,7616 NT2 383,5446 53,8357 202,8152 31,0700 51,9600 22,6791 49,1814 743,1260 891,7512 764,0160 916,8192
+NT3 382,7766 53,8357 130,5690 31,2006 56,1206 23,7009 49,1814 671,2642 805,5170 696,1842 835,4210 NT3 383,5446 53,8357 89,8152 31,0700 51,0000 20,0432 49,1814 627,4901 752,9881 647,4201 776,9041
+Mercado de Comercialización Operador de Red AFINIA S.A.S E.S.P [BOLIVAR, CESAR, CÓRDOBA, SUCRE] Cfmj ($/factura) 15730,5130 Mercado de Comercialización Operador de Red A-IRE S.A.S E.S.P [ATLÁNTICO, MAGDALENA, GUAJIRA] Cfmj ($/factura) 15730,5130
+Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT] Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT]
+Nivel de SIN Contribución CON Contribución Nivel de SIN Contribución CON Contribución
+Tensión (NT) Generación Transmisión Distribución Dm Comercializaci Pérdidas Restricciones Rm CU CU Tensión (NT) Generación Transmisión Distribución Comercialización Cv Restricciones CU CU
+Gm Tm ó C n v [Cv+COT] PR Con S tri I b N u ción CON contribución Gm Tm Dm [Cv+COT] Pérdidas PR Rm SIN Contribución CON contribución
+NT1-100% OR 384,7434 53,8357 200,7297 29,9855 110,5918 136,866 49,1814 855,3423 1026,4108 935,9486 1123,1383 NT1-100% OR 384,7434 53,8357 126,7303 27,8556 40,8733 92,8255 49,1814 735,1719 882,2063 748,1896 897,8275
+6
+NT1-50% OR 384,7434 53,8357 183,0457 29,9855 110,5918 136,866 49,1814 837,6583 1005,1900 918,2646 1101,9175 NT1-50% OR 384,7434 53,8357 115,5369 27,8556 40,8733 92,8255 49,1814 723,9785 868,7742 736,9962 884,3954
+6
+NT1-100% CL 384,7434 53,8357 165,3616 29,9855 110,5918 136,866 49,1814 819,9742 983,9690 900,5805 1080,6966 NT1-100% CL 384,7434 53,8357 104,3435 27,8556 40,8733 92,8255 49,1814 712,7851 855,3421 725,8028 870,9634
+6
+NT2 384,7434 53,8357 128,8774 29,9855 88,7409 28,5326 49,1814 675,1560 810,1872 733,9114 880,6936 NT2 384,7434 53,8357 85,1842 27,8556 27,8556 30,2443 49,1814 631,0446 757,2535 631,0446 757,2535
+NT3 384,7434 53,8357 97,5002 29,9855 29,9855 15,8242 49,1814 631,0704 757,2845 631,0704 757,2845 NT3 384,7434 53,8357 63,9011 27,8556 27,8556 25,8085 49,1814 605,3257 726,3908 605,3257 726,3908
+Mercado de Comercialización Operador de Red EMCALI E.S.P. [CALI] Cfmj ($/factura) 9390,0643 Mercado de Comercialización Operador de Red ENERCA S.A.S E.S.P [CASANARE] Cfmj ($/factura) 11304,2323
+Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT] Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT]
+Nivel de SIN Contribución CON Contribución Nivel de SIN Contribución CON Contribución
+Tensión (NT) Generación Transmisión Distribución Dm Comercializaci Pérdidas Restricciones Rm CU CU Tensión (NT) Generación Transmisión Distribución Comercialización Cv Restricciones CU CU
+Gm Tm ó C n v [Cv+COT] PR Con S tri I b N u ción CON contribución Gm Tm Dm [Cv+COT] Pérdidas PR Rm SIN Contribución CON contribución
+NT1-100% OR 383,3643 53,8357 273,2111 30,1327 30,1327 60,3278 49,1814 850,0530 1020,0636 850,0530 1020,0636 NT1-100% OR 390,3584 53,8357 265,8287 29,1136 50,6088 89,5810 49,1814 877,8988 1053,4786 899,3940 1079,2728
+NT1-100% CL 383,3643 53,8357 244,8499 30,1327 30,1327 60,3278 49,1814 821,6918 986,0302 821,6918 986,0302 NT1-100% CL 390,3584 53,8357 183,4433 29,1136 50,6088 89,5810 49,1814 795,5134 954,6161 817,0086 980,4103
+NT2 383,3643 53,8357 159,9797 30,1327 30,1327 27,1677 49,1814 703,6615 844,3938 703,6615 844,3938 NT2 390,3584 53,8357 181,1724 29,1136 29,1136 36,2800 49,1814 739,9415 887,9298 739,9415 887,9298
+NT3 383,3643 53,8357 98,8313 30,1327 30,1327 25,3214 49,1814 640,6668 768,8002 640,6668 768,8002 NT3 390,3584 53,8357 80,7835 29,1136 29,1136 31,0625 49,1814 634,3351 761,2021 634,3351 761,2021
+Mercado de Comercialización Operador de Red CHEC S.A. E.S.P [CALDAS] Cfmj ($/factura) 11881,6690 Mercado de Comercialización Operador de Red ESSA S.A. E.S.P. [SANTANDER] Cfmj ($/factura) 9932,8133
+Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT] Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT]
+Nivel de SIN Contribución CON Contribución Nivel de SIN Contribución CON Contribución
+Tensión (NT) Generación Transmisión Distribución Dm Comercializaci Pérdidas Restricciones Rm CU CU Tensión (NT) Generación Transmisión Distribución Comercialización Cv Restricciones CU CU
+Gm Tm ó C n v [Cv+COT] PR Con S tri I b N u ción CON contribución Gm Tm Dm [Cv+COT] Pérdidas PR Rm SIN Contribución CON contribución
+NT1-100% OR 388,1704 53,8357 308,5816 37,8872 107,5135 71,5933 49,1814 909,2496 1091,0995 978,8759 1174,6511 NT1-100% OR 295,9334 53,8357 308,5816 30,2338 69,5338 65,6755 49,1814 803,4414 964,1297 842,7414 1011,2897
+NT1-50% OR 388,1704 53,8357 270,0596 37,8872 107,5135 71,5933 49,1814 870,7276 1044,8731 940,3539 1128,4247 NT1-50% OR 295,9334 53,8357 263,2758 30,2338 69,5338 65,6755 49,1814 758,1356 909,7627 797,4356 956,9227
+NT1-100% CL 388,1704 53,8357 231,5376 37,8872 107,5135 71,5933 49,1814 832,2056 998,6467 901,8319 1082,1983 NT1-100% CL 295,9334 53,8357 217,9701 30,2338 69,5338 65,6755 49,1814 712,8299 855,3959 752,1299 902,5559
+NT2 388,1704 53,8357 202,8152 37,8872 37,8872 31,9508 49,1814 763,8407 916,6088 763,8407 916,6088 NT2 295,9334 53,8357 202,8152 30,2338 53,6638 24,1579 49,1814 656,1574 787,3889 679,5874 815,5049
+NT3 388,1704 53,8357 89,8152 37,8872 37,8872 23,3945 49,1814 642,2844 770,7413 642,2844 770,7413 NT3 295,9334 53,8357 89,8152 30,2338 55,9338 18,4120 49,1814 537,4115 644,8938 563,1115 675,7338
+Mercado de Comercialización Operador de Red CENS S.A. E.S.P. [NORTE DE SANTANDER] Cfmj ($/factura) 11486,5488 Mercado de Comercialización Operador de Red EMSA S.A. E.S.P. [META] Cfmj ($/factura) 12315,8608
+Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT] Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT]
+Nivel de SIN Contribución CON Contribución Nivel de SIN Contribución CON Contribución
+Tensión (NT) Generación Transmisión Distribución Dm Comercializaci Pérdidas Restricciones Rm CU CU Tensión (NT) Generación Transmisión Distribución Comercialización Cv Restricciones CU CU
+Gm Tm ó C n v [Cv+COT] PR Con S tri I b N u ción CON contribución Gm Tm Dm [Cv+COT] Pérdidas PR Rm SIN Contribución CON contribución
+NT1-100% OR 386,1871 53,8357 308,5816 41,3258 92,5342 80,6899 49,1814 919,8015 1103,7618 971,0099 1165,2119 NT1-100% OR 385,9902 53,8357 265,8287 31,3128 92,4945 68,9603 49,1814 855,1091 1026,1309 916,2908 1099,5490
+NT1-50% OR 386,1871 53,8357 280,6957 41,3258 92,5342 80,6899 49,1814 891,9156 1070,2987 943,1240 1131,7488 NT1-50% OR 385,9902 53,8357 249,6623 31,3128 92,4945 68,9603 49,1814 838,9427 1006,7312 900,1244 1080,1493
+NT1-100% CL 386,1871 53,8357 252,8099 41,3258 92,5342 80,6899 49,1814 864,0298 1036,8358 915,2382 1098,2858 NT1-100% CL 385,9902 53,8357 233,4958 31,3128 92,4945 68,9603 49,1814 822,7762 987,3314 883,9579 1060,7495
+NT2 386,1871 53,8357 202,8152 41,3258 73,4225 25,7814 49,1814 759,1266 910,9519 791,2233 949,4680 NT2 385,9902 53,8357 181,1724 31,3128 70,7136 30,8247 49,1814 732,3172 878,7806 771,7180 926,0615
+NT3 386,1871 53,8357 89,8152 41,3258 78,6741 26,5096 49,1814 646,8548 776,2258 684,2031 821,0437 NT3 385,9902 53,8357 80,7835 31,3128 58,3166 23,9148 49,1814 625,0184 750,0221 652,0222 782,4267
+Mercado de Comercialización Operador de Red EDEQ S.A. E.S.P [QUINDIO] Cfmj ($/factura) 11991,6569 Mercado de Comercialización Operador de Red CEDENAR S.A E.S.P [NARIÑO] Cfmj ($/factura) 12636,6896
+Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT] Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT]
+Nivel de SIN Contribución CON Contribución Nivel de SIN Contribución CON Contribución
+Tensión (NT) Generación Transmisión Distribución Dm Comercializaci Pérdidas Restricciones Rm CU CU Tensión (NT) Generación Transmisión Distribución Comercialización Cv Restricciones CU CU
+Gm Tm ó C n v [Cv+COT] PR Con S tri I b N u ción CON contribución Gm Tm Dm [Cv+COT] Pérdidas PR Rm SIN Contribución CON contribución
+NT1-100% OR 384,0475 53,8357 308,5816 31,0941 115,2469 70,5696 49,1814 897,3099 1076,7719 981,4627 1177,7552 NT1-100% OR 393,8391 53,8357 273,2111 34,9864 76,6968 74,0342 49,1814 879,0879 1054,9055 920,7983 1104,9579
+NT1-50% OR 384,0475 53,8357 284,0716 31,0941 115,2469 70,5696 49,1814 872,7999 1047,3599 956,9527 1148,3432 NT1-50% OR 393,8391 53,8357 244,2895 34,9864 76,6968 74,0342 49,1814 850,1663 1020,1996 891,8767 1070,2520
+NT1-100% CL 384,0475 53,8357 259,5615 31,0941 115,2469 70,5696 49,1814 848,2898 1017,9478 932,4426 1118,9311 NT1-100% CL 393,8391 53,8357 215,3679 34,9864 76,6968 74,0342 49,1814 821,2447 985,4936 862,9551 1035,5461
+NT2 384,0475 53,8357 202,8152 31,0941 84,4208 29,4762 49,1814 750,4501 900,5401 803,7768 964,5322 NT2 393,8391 53,8357 159,9797 34,9864 77,4056 24,7539 49,1814 716,5762 859,8914 758,9954 910,7945
+NT3 384,0475 53,8357 89,8152 31,0941 72,1211 22,2673 49,1814 630,2412 756,2894 671,2682 805,5219 NT3 393,8391 53,8357 98,8313 34,9864 59,1571 17,1806 49,1814 647,8545 777,4254 672,0252 806,4302
+Mercado de Comercialización Operador de Red EEP S.A E.S.P [RISARALDA] Cfmj ($/factura) 13818,5646 Mercado de Comercialización Operador de Red ELECTROHUILA S.A E.S.P [HUILA] Cfmj ($/factura) 15632,8703
+Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT] Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT]
+Nivel de SIN Contribución CON Contribución Nivel de SIN Contribución CON Contribución
+Tensión (NT) Generación Transmisión Distribución Dm Comercializaci Pérdidas Restricciones Rm CU CU Tensión (NT) Generación Transmisión Distribución Comercialización Cv Restricciones CU CU
+Gm Tm ó C n v [Cv+COT] PR Con S tri I b N u ción CON contribución Gm Tm Dm [Cv+COT] Pérdidas PR Rm SIN Contribución CON contribución
+NT1-100% OR 294,1711 53,8357 308,5816 26,7365 26,7365 55,0199 49,1814 787,5262 945,0314 787,5262 945,0314 NT1-100% OR 387,0378 53,8357 296,3262 38,7103 58,6440 78,5598 49,1814 903,6512 1084,3814 923,5849 1108,3019
+
+NT1-50% OR 294,1711 53,8357 285,5056 26,7365 26,7365 55,0199 49,1814 764,4502 917,3402 764,4502 917,3402 NT1-50% OR 387,0378 53,8357 272,3286 38,7103 58,6440 78,5598 49,1814 879,6536 1055,5843 899,5873 1079,5048
+NT1-100% CL 294,1711 53,8357 262,4296 26,7365 26,7365 55,0199 49,1814 741,3742 889,6490 741,3742 889,6490 NT1-100% CL 387,0378 53,8357 248,3310 38,7103 58,6440 78,5598 49,1814 855,6560 1026,7872 875,5897 1050,7076
+NT2 294,1711 53,8357 202,8152 26,7365 26,7365 23,1632 49,1814 649,9031 779,8837 649,9031 779,8837 NT2 387,0378 53,8357 193,1473 38,7103 71,5995 30,4422 49,1814 752,3547 902,8256 785,2439 942,2927
+NT3 294,1711 53,8357 89,8152 26,7365 26,7365 20,3264 49,1814 534,0663 640,8796 534,0663 640,8796 NT3 387,0378 53,8357 130,5690 38,7103 75,0249 23,2406 49,1814 682,5748 819,0898 718,8894 862,6673
+Mercado de Comercialización Operador de Red CELSIA S.A E.S.P [VALLE DEL CAUCA] Cfmj ($/factura) 16764,1722 Mercado de Comercialización OR CETSA SA ESP [TULUÁ] Cfmj ($/factura) 11180,3950
+Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT] Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT]
+Nivel de SIN Contribución CON Contribución Nivel de SIN Contribución CON Contribución
+Tensión (NT) Generación Transmisión Distribución Dm Comercializaci Pérdidas Restricciones Rm CU CU Tensión (NT) Generación Transmisión Distribución Comercialización Cv Restricciones CU CU
+Gm Tm ó C n v [Cv+COT] PR Con S tri I b N u ción CON contribución Gm Tm Dm [Cv+COT] Pérdidas PR Rm SIN Contribución CON contribución
+NT1-100% OR 385,9501 53,8357 273,2111 29,7982 87,1482 72,1740 49,1814 864,1505 1036,9806 921,5005 1105,8006 NT1-100% OR 383,0332 53,8357 273,2111 28,8467 28,8467 67,6798 49,1814 855,7879 1026,9455 855,7879 1026,9455
+NT1-100% CL 385,9501 53,8357 202,0922 29,7982 87,1482 72,1740 49,1814 793,0316 951,6379 850,3816 1020,4579 NT1-100% CL 383,0332 53,8357 218,4458 28,8467 28,8467 67,6798 49,1814 801,0226 961,2271 801,0226 961,2271
+NT2 385,9501 53,8357 159,9797 29,7982 29,7982 30,3421 49,1814 709,0872 850,9046 709,0872 850,9046 NT2 383,0332 53,8357 159,9797 28,8467 108,9767 28,3824 49,1814 703,2591 843,9109 783,3891 940,0669
+NT3 385,9501 53,8357 98,8313 29,7982 29,7982 25,9039 49,1814 643,5006 772,2007 643,5006 772,2007 NT3 383,0332 53,8357 98,8313 28,8467 96,5967 21,6926 49,1814 635,4209 762,5051 703,1709 843,8051
+Mercado de Comercialización Operador de Red CELSIA TOLIMA S.A E.S.P [TOLIMA] Cfmj ($/factura) 10518,9632 Mercado de Comercialización Operador de Red EBSA S.A E.S.P BOYACÁ] Cfmj ($/factura) 15217,8108
+Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT] Tarifas por COSTO UNITARIO DE PRESTACIÓN DEL SERVICIO -CU ($/kWh) [CU + COT] [CU + COT]
+Nivel de SIN Contribución CON Contribución Nivel de SIN Contribución CON Contribución
+Tensión (NT) Generación Transmisión Distribución Dm Comercializaci Pérdidas Restricciones Rm CU CU Tensión (NT) Generación Transmisión Distribución Comercialización Cv Restricciones CU CU
+Gm Tm ó C n v [Cv+COT] PR Con S tri I b N u ción CON contribución Gm Tm Dm [Cv+COT] Pérdidas PR Rm SIN Contribución CON contribución
+NT1-100% OR 387,4355 53,8357 296,3262 30,9857 131,0257 95,7492 49,1814 913,5137 1096,2164 1013,5537 1216,2644 NT1-100% OR 300,3899 53,8357 296,3262 34,1203 49,3864 66,3030 49,1814 800,1565 960,1878 815,4226 978,5071
+NT1-50% OR 387,4355 53,8357 248,1258 30,9857 131,0257 95,7492 49,1814 865,3133 1038,3760 965,3533 1158,4240 NT1-50% OR 300,3899 53,8357 254,6178 34,1203 49,3864 66,3030 49,1814 758,4481 910,1377 773,7142 928,4570
+NT1-100% CL 387,4355 53,8357 199,9254 30,9857 131,0257 95,7492 49,1814 817,1129 980,5355 917,1529 1100,5835 NT1-100% CL 300,3899 53,8357 212,9095 34,1203 49,3864 66,3030 49,1814 716,7398 860,0878 732,0059 878,4070
+NT2 387,4355 53,8357 193,1473 30,9857 30,9857 42,3624 49,1814 756,9480 908,3376 756,9480 908,3376 NT2 300,3899 53,8357 193,1473 34,1203 61,2418 18,8091 49,1814 649,4837 779,3804 676,6052 811,9262
+NT3 387,4355 53,8357 130,5690 30,9857 30,9857 31,3173 49,1814 683,3246 819,9895 683,3246 819,9895 NT3 300,3899 53,8357 130,5690 34,1203 57,5710 15,9979 49,1814 584,0942 700,9130 607,5449 729,0539
+Mercado de Comercialización OR Ruitoque ESP [SANTANDER] Cfmj ($/factura) 13999,7622 ENEL X COLOMBIA SAS ESP Informa:
+Las tarifas públicas aplican para los usuarios del Mercado Regulado del servicio de energía eléctrica, en cumplimiento de las resoluciones CREG 119/07, CREG 058/08, CREG 097/08, CREG 051/10, CREG 156/09 , CREG 173/11, CREG 180/14. CREG
+T N T a e iv r n i e f s a l i ó s d n e p ( o N r T) C G G O e m n S e T r O ac U ió N n ITARIO T T D r m a E n P sm R i E s S ió T n A CIÓN D D is E t L ri b S u E c R ió V n I C D I m O -CU ($ C /k o W m ó h e n ) r c C ia v lizaci [Cv+COT] P P é R rdidas Restricciones Rm Con S t C ri I b N U u ción CON co C n U tribución [ S C IN U C + o C n O tr T ib ] ución [ C C O U N + C C o O nt T ri ] bución 1 N t N 1 N R a 9 7 o o o e r 1 3 i t t t d f a a a a / . 1 k 1 3 4 N W p 4 : : : a T , h L P E r 1 C a - a o n - m 5 R r u t e e a 0 d E s l s r % u i G c i s . f a a a p r 2 r o i I g o 4 n s o s 1 d ic / u p r i 1 ó e s o 5 n s t r r , i i d u d a C e s e l R n o y l E c a d C i G a R e o l e e m 1 n s s 9 i e v o 9 d e r l c / e u l i 2 c 1 a e 0 i l ó s ( 1 c D n tr 6 o a t U , n 1 t C o ) P c , R M o 1 e n , E l E t 2 c G r o i 0 b y m 3 0 u 3 5 1 p c 5 5 i t o ó i / e n d 1 n n e e 8 c e n , 2 o t C u e 0 rr n R 0 e d 4 E s s e , u p G i p b o n a s n 0 v i r e d 1 d a r e 0 i s o l / o i a 2 ó d s l 0 n e c , m l o ( C C 6 u s R 0 t n D o % E i 1 c u G i ) , p n 5 s i i 0 o e t 0 a 1 s % a r 2 i l p o o / y 2 l c i m 0 c a 1 , a l á 5 i C z s % c a R o u d n r E n o e f G o s s in r p e m c 0 e n r 5 c e e 8 t a m i a / v l 2 t e a i l t 0 a n m u , t d R o e C e n e R d s t s e e E s o l u G l e u 2 p n c 0 0 e i % l ó 0 r a i n 3 o t c / r a C 2 o e r 0 r s R if r 2 a e E o 1 s a G , i p g p C - o u l 0 i n R c a 1 d a l E 5 e i d e G s d a n e a , t 1 e h 7 2 1 a a 4 0 0 s / 1 0 c 2 t 8 a 0 o 0 . n 2 e m N t 1 l r e o v i , b t t a C r a u o lo R c s 5 r i , E ó : d e n G N e l T d l v 1 e 1 c a 0 o - l s 1 o 1 n o r 0 s 0 l 0 d i u 0 d % e m 2 a l / r o 2 C O id 0 d o R a 2 e n d : 2 s , A s u y a u c m p b c ti l s o i v i r c i o c s d a u s t e b e la d l n S e r e c e u a i c s a b o . u s a n s i c s e u l t a x e a r i n r ó a i c o n to i s a e r i i n ( n a C d s n S . u iv s ) e t e r l i s a d l e 1 e 3 s te 0 , n c k s o W i m ó h n e - r m 1 c i e ( a N s le T y s 1 e y ) n q r e u a s e lt i i d t s u e o d n n e c 1 s ia 0 m le 0 e s % n d o p e r r e o lo s p s i a e e d 1 s a . t 0 r d a 0 d t 0 o e s m l O 5 e p t y r e o 6 r s . a , N d e o o l r t C a d S e 2 : e L s a
+OR: Activos de conexión NT1 propiedad compartida 50/50 (Operador de red/Cliente). NT1-100% CL: Activos de conexión NT1 100% Propiedad Cliente.
+NT1-100% OR 381,6147 53,8357 308,5816 35,4407 35,4407 62,1171 49,1814 890,7712 1068,9254 890,7712 1068,9254 N m o a t n a t e 6 n : d D r e á n a c la u e a r p d li o c a c c o i n ó n lo d e e s e ta s b te le c c o id n o c e e p n t o la y R s e e s s o e lu g c u ió ir n á C re R c E au G d a 1 n 0 d 1 o 0 c 2 o 8 n d e e l 2 c 0 o 2 m 3 e , r l c o i s a l c iz li a e d n o te r s a c q t u u e a l c h a a m s b ta ie l n a d fi e n a c l o iz m ac e i r ó c n ia d liz e a l d co o n r t c r o a n to p o o s h t a e s r t io a r q id u a e d f a in a la li c e e x p la e d a i p c l i i ó c n a c d i e ó n la d p e r l e C s O en T t . e E r s e s d o e l u in c d ió ic n a y r q c u u e yo e c l o re m c e a r u c d ia o l i d z e a d e o s r t o e s s t r u e v c i u e r s s e o a s p n li o c a h n a d c o e n e l p C ar O te T , de los ingresos
+NT1-100% CL 381,6147 53,8357 246,0973 35,4407 35,4407 62,1171 49,1814 828,2869 993,9443 828,2869 993,9443 propios de Enel X Colombia SAS ESP.
+NT2 381,6147 53,8357 202,8152 35,4407 35,4407 13,8830 49,1814 736,7707 884,1248 736,7707 884,1248
+NT3 381,6147 53,8357 89,8152 35,4407 35,4407 5,5251 49,1814 615,4128 738,4954 615,4128 738,4954
+

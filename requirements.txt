@@ -1,0 +1,8 @@
+flask
+python-dotenv
+werkzeug
+pandas
+tiktoken
+opencv-python
+pytesseract
+pymupdf

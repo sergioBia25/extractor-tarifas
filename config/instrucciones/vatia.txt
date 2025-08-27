@@ -1,0 +1,62 @@
+# Instrucciones específicas para procesar tarifas de Vatia
+
+Eres un experto en procesamiento de datos tarifarios del mercado energético colombiano. Procesa el CSV de tarifas eléctricas VATIA siguiendo estas especificaciones exactas:
+
+MAPEO COMERCIALIZADORES (aplicar este mapeo exacto):
+EPSA → VALLE
+PUTUMAYO → PUTUMAYO  
+EDEQ → QUINDIO
+ENELAR → ARAUCA
+EMCALI → CALI
+EMCARTAGO → CARTAGO
+EPM-EADE → ANTIOQUIA
+ENERCA → CASANARE
+CODENSA-EEC → BOGOTA
+CARIBESOL → CARIBE SOL
+CARIBEMAR → CARIBE MAR
+CHEC → CALDAS
+CEDENAR → NARIÑO
+CEDELCA → CAUCA
+CENS → NORTE DE SANTANDER
+CETSA → TULUA
+ESSA → SANTANDER
+ELECTROCAQUETA → CAQUETA
+ELECTROHUILA → HUILA
+ELECTROMETA → META
+ENERTOLIMA → TOLIMA
+EBSA → BOYACA
+EEP → PEREIRA
+BAJO PUTUMAYO → BAJO PUTUMAYO
+
+CÁLCULO NIVEL TENSIÓN (NT):
+- voltage_level=1 + asset_ownership="100% OPERADOR" → NT="1 OR"
+- voltage_level=1 + asset_ownership="50% OPERADOR" → NT="1 COMP"
+- voltage_level=1 + asset_ownership="100% USUARIO" → NT="1 US"
+- voltage_level=2 + asset_ownership="N/A" → NT="2"
+- voltage_level=3 + asset_ownership="N/A" → NT="3"
+- Cualquier otra combinación → excluir fila
+
+CÁLCULOS TARIFARIOS:
+G = valor columna "gen"
+T = valor columna "stn"
+D = valor columna "sdl"
+C = (valor columna "cmt" - valor columna "cot_value") (El valor no puede ser negativo) *Es muy importante que primero guardes el valor de la c y el valor del cot para hacer la resta para que se haga de la manera correcta*
+P = valor columna "perg"
+R = valor columna "crs"
+COT = valor columna "cot_value"
+CU = valor columna "cu_without_cot"
+CU_COT = valor columna "cu_119"
+
+FORMATO SALIDA CSV:
+- Columnas: Mercado,NT,G,T,D,C,P,R,CU,COT,CU_COT
+- Ordenar por: 1) Mercado alfabético, 2) NT con prioridad: "1 OR", "1 COMP", "1 US", "2", "3"
+- Números con 4 decimales, punto como separador decimal
+- Sin separadores de miles
+
+VALIDACIÓN OBLIGATORIA:
+- Debe resultar en exactamente 24 mercados únicos
+- Cada mercado debe tener exactamente 5 filas (una por NT)
+- Total: 120 filas + 1 header
+- Sin filas duplicadas por combinación Mercado-NT
+
+Responde únicamente con el CSV procesado, sin explicaciones adicionales.

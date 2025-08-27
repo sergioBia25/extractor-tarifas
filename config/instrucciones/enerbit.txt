@@ -1,0 +1,67 @@
+# Instrucciones Específicas para Enerbit
+
+## Identificación del Documento
+1. Buscar "ENERBIT S.A.S. E.S.P." al inicio del documento
+2. Verificar que todas las filas correspondan a Enerbit
+3. Ignorar secciones que mencionen "con contribución"
+
+## Estructura del Documento
+1. El documento está organizado por mercados
+2. Los valores de Transmisión (T) y Restricciones (R) aparecen una sola vez en el documento
+3. Cada mercado tiene una sección con diferentes niveles de tensión
+
+## Mapeo de Datos
+1. Comercializador: Siempre usar "Enerbit"
+2. Mercado: Extraer según el mapeo:
+   - ANTIOQUIA -> ANTIOQUIA
+   - ATLANTICO -> ATLANTICO
+   - BOLIVAR -> BOLIVAR
+   - BOYACA -> BOYACA
+   - CALDAS -> CALDAS
+   - CAQUETA -> CAQUETA
+   - CAUCA -> CAUCA
+   - CESAR -> CESAR
+   - CHOCO -> CHOCO
+   - CORDOBA -> CORDOBA
+   - CUNDINAMARCA -> CUNDINAMARCA
+   - HUILA -> HUILA
+   - LA GUAJIRA -> LA GUAJIRA
+   - MAGDALENA -> MAGDALENA
+   - META -> META
+   - NARIÑO -> NARIÑO
+   - NORTE DE SANTANDER -> NORTE DE SANTANDER
+   - QUINDIO -> QUINDIO
+   - RISARALDA -> RISARALDA
+   - SANTANDER -> SANTANDER
+   - TOLIMA -> TOLIMA
+   - VALLE -> VALLE
+
+3. Nivel de Tensión: Transformar según el mapeo:
+   - "Nivel 1.1" -> "1 OR"
+   - "N 1.2* - 50%" -> "1 COMP"
+   - "N 1.2-1.3" -> "1 US"
+   - "Nivel 2" -> "2"
+   - "Nivel 3" -> "3"
+   - "Nivel 4" -> "4"
+
+## Extracción de Valores
+1. G: Buscar en la columna "Generación" o "Gm"
+2. T: Usar el valor fijo de transmisión del documento
+3. D: Buscar en la columna "Distribución" o "Dm"
+4. C: Buscar en la columna "Comercialización" o "Cv"
+5. COT: Calcular como (CU + COT) - CU
+6. P: Buscar en la columna "Pérdidas" o "PR"
+7. R: Usar el valor fijo de restricciones del documento
+8. CU: Buscar en la columna "Costo Unitario" o "CU"
+9. CU + COT: Buscar en la columna "CU + COT" o "CU (Cot)"
+
+## Casos Especiales
+1. Si falta un nivel de tensión, usar 0.00 para todos sus valores
+2. Verificar que los valores de T y R sean consistentes en todo el documento
+3. Asegurarse de que no se mezclen valores entre diferentes mercados o niveles de tensión
+
+## Verificación Final
+1. Verificar que todos los mercados tengan datos completos
+2. Confirmar que los valores de T y R son consistentes
+3. Asegurarse de que no haya valores con contribución
+4. Verificar que los valores numéricos sean consistentes con el formato de Enerbit 

@@ -1,0 +1,35 @@
+# Ignorar carpeta private y su contenido
+private/
+*.env
+
+# Ignorar archivos generados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de entorno virtual
+venv/
+env/
+.env/
+
+# Ignorar archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignorar archivos temporales y de procesamiento
+pdfs/*_text.txt
+pdfs/*_estructurado.csv
+pdfs/*.json
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db 

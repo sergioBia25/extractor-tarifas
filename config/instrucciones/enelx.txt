@@ -1,0 +1,57 @@
+# Instrucciones Específicas para Enel X
+
+## Identificación del Documento
+1. Buscar "ENELX" al inicio del documento
+2. Verificar que todas las filas correspondan a Enel X
+3. Ignorar secciones que mencionen "con contribución"
+
+## Estructura del Documento
+1. El documento está organizado por mercados
+2. Los valores de Transmisión (T) y Restricciones (R) aparecen una sola vez en el documento
+3. Cada mercado tiene una sección con diferentes niveles de tensión
+
+## Mapeo de Datos
+1. Comercializador: Siempre usar "Enel X"
+2. Mercado: Extraer según el mapeo:
+"BOGOTÁ Y CUNDINAMARCA": "BOGOTA",
+"ANTIOQUIA": "ANTIOQUIA",
+"BOLIVAR, CESAR, CÓRDOBA, SUCRE": "CARIBE MAR",
+"ATLÁNTICO, MAGDALENA, GUAJIRA": "CARIBE SOL",
+"CALI": "CALI",
+"CASANARE": "CASANARE",
+"CALDAS": "CALDAS",
+"SANTANDER": "SANTANDER",
+"NORTE DE SANTANDER": "NORTE SANTANDER",
+"META": "META",
+"QUINDIO": "QUINDIO",
+"NARIÑO": "NARIÑO",
+"RISARALDA": "RISARALDA",
+"HUILA": "HUILA",
+"VALLE DEL CAUCA": "VALLE",
+"TULUÁ": "TULUA",
+"TOLIMA": "TOLIMA",
+"BOYACÁ": "BOYACA",
+"SANTANDER RUITOQUE": "RUITOQUE"
+
+3. Nivel de Tensión: Transformar según el mapeo:
+   - "Nivel 1.1" -> "1 OR"
+   - "N 1.2* - 50%" -> "1 COMP"
+   - "N 1.2-1.3" -> "1 US"
+   - "Nivel 2" -> "2"
+   - "Nivel 3" -> "3"
+   - "Nivel 4" -> "4"
+
+## Extracción de Valores
+1. G: Buscar en la columna "Generación" o "Gm"
+2. T: Usar el valor fijo de transmisión del documento
+3. D: Buscar en la columna "Distribución" o "Dm"
+4. C: Buscar en la columna "Comercialización" o "Cv"
+5. COT: Calcular como (CU + COT) - CU
+6. P: Buscar en la columna "Pérdidas" o "PR"
+7. R: Usar el valor fijo de restricciones del documento
+8. CU: Buscar en la columna "Costo Unitario" o "CU"
+9. CU + COT: Buscar en la columna "CU + COT" o "CU (Cot)"
+
+## Casos Especiales
+1. Si falta un nivel de tensión, usar 0.00 para todos sus valores
+

@@ -1,0 +1,60 @@
+Quiero que analices un documento de tarifas de energía correspondiente al comercializador "QI" y estructures los datos en una tabla con la siguiente lógica.
+
+Primero, asegúrate de que el encabezado o los bloques de texto mencionen claramente "QI" e ignora cualquier sección que contenga la frase "Franjas Horaria" "Franjas Horarias con COT". El documento está dividido por mercados, y dentro de cada mercado hay niveles de tensión. Los valores de Transmisión (T) y Restricciones (R) aparecen una sola vez por documento y aplican a todos los mercados.
+
+Mapea los mercados usando el valor de la columna or_abbreviation a un campo llamado Mercado según esta equivalencia:
+ "ANTIOQUIA": "ANTIOQUIA",
+"ATLANTICO": "ATLANTICO",
+"AFINIA": "CARIBE MAR",
+"BOLIVAR": "BOLIVAR",
+"BOYACA": "BOYACA",
+"CHEC": "CALDAS",
+"CALI, YUMBO Y PUERTO TEJADA": "CALI",
+"CARTAGO": "CARTAGO",
+"CAQUETA": "CAQUETA",
+"CAUCA": "CAUCA",
+"CESAR": "CESAR",
+"CHOCO": "CHOCO",
+"CORDOBA": "CORDOBA",
+"HUILA": "HUILA",
+"CUNDINAMARCA": "CUNDINAMARCA",
+"HUILA": "HUILA",
+"LA GUAJIRA": "LA GUAJIRA",
+"MAGDALENA": "MAGDALENA",
+"META": "META",
+"NARIÑO": "NARIÑO",
+"NORTE DE SANTANDER": "NORTE DE SANTANDER",
+"QUINDIO": "QUINDIO",
+"PEREIRA": "PEREIRA",
+"SANTANDER": "SANTANDER",
+"TOLIMA": "TOLIMA",
+"VALLE": "VALLE",
+"TULUÁ": "TULUA"
+
+Luego, calcula el campo Nivel de Tensión (nivel de tensión) combinando las columnas voltage_level y asset_ownership así:
+si es "CU1 Prop, OR" entonces "1 OR"
+si es "CU12 Prop, Mixta" entonces "1 COMP"
+si es "CU1 Prop, Cliente" entonces "1 US"
+si es "CU2" entonces "2"
+si es "CU3" entonces "3"
+
+Luego extrae y calcula los siguientes valores:
+G: Buscar en la columna "G" o "G m,i,j".
+T: Usar el valor fijo de transmisión del documento.
+D: Buscar en la columna "D" o "D n,m".
+C: Buscar en la columna "C" o "Cv m,i,j".
+COT: Buscar en la columna "COT" o "cot_value".
+P: Buscar en la columna "P" o "PRn,m,i,j".
+R: Usar el valor fijo de restricciones del documento "Rm,i".
+CU: Calcular como la suma de G + T + D + C + P + R.
+COT: hacer la siguiente operación ("C" - "COT n,j,m") 
+CU + COT: Calcular como CU + COT.
+Si un nivel de tensión no tiene datos, asigna 0.00 en todos sus valores.
+
+Finalmente, estructura la tabla con las columnas:
+Mercado, NT, G, T, D, C (calculado como C - COT), P, R, CU, COT, CU + COT.
+Ordena por nombre de mercado en orden alfabético, y por nivel de tensión con la siguiente prioridad:
+"1 OR" primero, luego "1 COMP", "1 US", "2", y "3".
+Debe haber solo una fila por combinación de Mercado y NT.
+
+Verifica que no haya valores que mencionen "contribución", que los valores de T y R sean consistentes entre mercados, y que todos los campos estén en formato numérico válido. 
